@@ -5,7 +5,7 @@ https://www.youtube.com/channel/UCT09eC0fDd3a3Nx9X7QQ9Aw
 # Project details  
 - **Hammer King**  
   My first platform game 2D using free graphics assets  
-  You can play it on : https://pixel-frog.itch.io/kings-and-pigs  
+  You can play it on : https://sheetcode.itch.io/hammer-king
   (youtube in progress)
 - **Godot midi json animation tutorial**  
   It's my first tutorial :D I pressents how animate piano keyboard using MIDI and json parser  
