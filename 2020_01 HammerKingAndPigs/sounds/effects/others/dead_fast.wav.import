@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/dead_fast.wav-4332c04eb44bf279c29adc52c25324f0.sample"
+
+[deps]
+
+source_file="res://sounds/effects/others/dead_fast.wav"
+dest_files=[ "res://.import/dead_fast.wav-4332c04eb44bf279c29adc52c25324f0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

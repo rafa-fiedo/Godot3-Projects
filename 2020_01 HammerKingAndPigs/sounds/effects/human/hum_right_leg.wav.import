@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hum_right_leg.wav-9f6cb5128cdfff0cec156f80597d0346.sample"
+
+[deps]
+
+source_file="res://sounds/effects/human/hum_right_leg.wav"
+dest_files=[ "res://.import/hum_right_leg.wav-9f6cb5128cdfff0cec156f80597d0346.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

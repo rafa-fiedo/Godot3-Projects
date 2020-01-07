@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pig_attack.wav-4b54a42ab3d3ee71d68815bb7dd3c757.sample"
+
+[deps]
+
+source_file="res://sounds/effects/enemies/pig_attack.wav"
+dest_files=[ "res://.import/pig_attack.wav-4b54a42ab3d3ee71d68815bb7dd3c757.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

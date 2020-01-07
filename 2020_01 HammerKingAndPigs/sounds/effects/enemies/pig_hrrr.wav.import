@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pig_hrrr.wav-6d707e5876958abbfe413379a6923cdf.sample"
+
+[deps]
+
+source_file="res://sounds/effects/enemies/pig_hrrr.wav"
+dest_files=[ "res://.import/pig_hrrr.wav-6d707e5876958abbfe413379a6923cdf.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

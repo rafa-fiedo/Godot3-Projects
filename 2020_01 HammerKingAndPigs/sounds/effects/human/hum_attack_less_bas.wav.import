@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hum_attack_less_bas.wav-ff0890363092923438876a609445784b.sample"
+
+[deps]
+
+source_file="res://sounds/effects/human/hum_attack_less_bas.wav"
+dest_files=[ "res://.import/hum_attack_less_bas.wav-ff0890363092923438876a609445784b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

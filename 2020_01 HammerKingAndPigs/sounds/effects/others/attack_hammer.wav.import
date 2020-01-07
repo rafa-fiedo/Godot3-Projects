@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/attack_hammer.wav-a49b5ca0507b51232cac0543362a3c04.sample"
+
+[deps]
+
+source_file="res://sounds/effects/others/attack_hammer.wav"
+dest_files=[ "res://.import/attack_hammer.wav-a49b5ca0507b51232cac0543362a3c04.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

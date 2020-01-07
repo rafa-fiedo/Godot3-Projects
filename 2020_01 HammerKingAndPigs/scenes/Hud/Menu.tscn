@@ -1,0 +1,98 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://scripts/Menu.gd" type="Script" id=1]
+[ext_resource path="res://scenes/levels/Level1.tscn" type="PackedScene" id=2]
+[ext_resource path="res://scenes/tilemaps/Enviroment.tscn" type="PackedScene" id=3]
+[ext_resource path="res://scenes/Human.tscn" type="PackedScene" id=4]
+[ext_resource path="res://images/KingsAndPigs33/button_background.png" type="Texture" id=5]
+[ext_resource path="res://images/KingsAndPigs33/button_background_hover.png" type="Texture" id=6]
+[ext_resource path="res://UI/fonts/Lato2OFL/Lato-Bold.ttf" type="DynamicFontData" id=7]
+[ext_resource path="res://UI/fonts/Lato2OFL/Lato-Light.ttf" type="DynamicFontData" id=8]
+
+[sub_resource type="DynamicFont" id=1]
+size = 15
+font_data = ExtResource( 7 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 12
+font_data = ExtResource( 8 )
+
+[node name="Menu" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+start_scene = ExtResource( 2 )
+
+[node name="Enviroment" parent="." instance=ExtResource( 3 )]
+tile_data = PoolIntArray( 0, 0, 65537, 1, 2, 0, 2, 0, 131073, 3, 0, 131073, 4, 0, 131073, 5, 0, 131073, 6, 0, 131073, 7, 0, 131073, 8, 0, 131073, 9, 0, 131073, 10, 0, 131073, 11, 0, 131073, 12, 0, 131073, 13, 0, 131073, 14, 2, 1, 15, 0, 65537, 65536, 0, 65537, 65537, 0, 65538, 65538, 12, 0, 65539, 12, 1, 65540, 12, 1, 65541, 12, 1, 65542, 12, 1, 65543, 12, 1, 65544, 12, 1, 65545, 12, 1, 65546, 12, 1, 65547, 12, 1, 65548, 12, 1, 65549, 12, 2, 65550, 0, 65536, 65551, 0, 65537, 131072, 0, 65537, 131073, 0, 65538, 131074, 12, 131072, 131075, 12, 131073, 131076, 12, 131073, 131077, 12, 131073, 131078, 12, 131073, 131079, 12, 131073, 131080, 12, 131073, 131081, 12, 131073, 131082, 12, 131073, 131083, 12, 131073, 131084, 12, 131073, 131085, 12, 131074, 131086, 0, 65536, 131087, 0, 65537, 196608, 0, 65537, 196609, 2, 65536, 196610, 0, 1, 196611, 0, 1, 196612, 0, 1, 196613, 0, 1, 196614, 0, 1, 196615, 0, 1, 196616, 0, 1, 196617, 0, 1, 196618, 0, 1, 196619, 0, 1, 196620, 0, 1, 196621, 0, 1, 196622, 2, 65537, 196623, 0, 65537, 262144, 0, 65537, 262145, 0, 65537, 262146, 0, 65537, 262147, 0, 65537, 262148, 0, 65537, 262149, 0, 65537, 262150, 2, 0, 262151, 0, 131073, 262152, 0, 131073, 262153, 2, 1, 262154, 0, 65537, 262155, 0, 65537, 262156, 0, 65537, 262157, 0, 65537, 262158, 0, 65537, 262159, 0, 65537, 327680, 0, 65537, 327681, 0, 65537, 327682, 0, 65537, 327683, 0, 65537, 327684, 0, 65537, 327685, 0, 65537, 327686, 0, 65538, 327689, 0, 65536, 327690, 0, 65537, 327691, 0, 65537, 327692, 0, 65537, 327693, 0, 65537, 327694, 0, 65537, 327695, 0, 65537, 393216, 0, 65537, 393217, 0, 65537, 393218, 0, 65537, 393219, 0, 65537, 393220, 0, 65537, 393221, 0, 65537, 393222, 2, 65536, 393223, 0, 1, 393224, 0, 1, 393225, 2, 65537, 393226, 0, 65537, 393227, 0, 65537, 393228, 0, 65537, 393229, 0, 65537, 393230, 0, 65537, 393231, 0, 65537, 458752, 0, 65537, 458753, 0, 65537, 458754, 0, 65537, 458755, 0, 65537, 458756, 0, 65537, 458757, 0, 65537, 458758, 0, 65537, 458759, 0, 65537, 458760, 0, 65537, 458761, 0, 65537, 458762, 0, 65537, 458763, 0, 65537, 458764, 0, 65537, 458765, 0, 65537, 458766, 0, 65537, 458767, 0, 65537, 524288, 0, 65537, 524289, 0, 65537, 524290, 0, 65537, 524291, 0, 65537, 524292, 0, 65537, 524293, 0, 65537, 524294, 0, 65537, 524295, 0, 65537, 524296, 0, 65537, 524297, 0, 65537, 524298, 0, 65537, 524299, 0, 65537, 524300, 0, 65537, 524301, 0, 65537, 524302, 0, 65537, 524303, 0, 65537 )
+
+[node name="Player" parent="." instance=ExtResource( 4 )]
+position = Vector2( 124, 75 )
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+editor/display_folded = true
+visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+margin_right = 512.0
+margin_bottom = 288.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/HBoxContainer"]
+margin_bottom = 288.0
+
+[node name="CenterContainer" type="CenterContainer" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+
+[node name="TextureRect" type="TextureRect" parent="MarginContainer/HBoxContainer/VBoxContainer/CenterContainer"]
+stretch_mode = 1
+
+[node name="RichTextLabel" type="RichTextLabel" parent="MarginContainer/HBoxContainer/VBoxContainer/CenterContainer/TextureRect"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+text = "Start"
+
+[node name="CenterContainer" type="CenterContainer" parent="MarginContainer/HBoxContainer"]
+margin_left = 4.0
+margin_right = 4.0
+margin_bottom = 288.0
+
+[node name="StartButton" type="TextureButton" parent="."]
+editor/display_folded = true
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 223.0
+margin_top = 159.0
+margin_right = -222.0
+margin_bottom = -95.0
+texture_normal = ExtResource( 5 )
+texture_hover = ExtResource( 6 )
+expand = true
+
+[node name="Start" type="Label" parent="StartButton"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/font = SubResource( 1 )
+text = "Start"
+align = 1
+valign = 1
+
+[node name="Hint" type="Label" parent="."]
+margin_left = 5.0
+margin_top = 266.0
+margin_right = 170.0
+margin_bottom = 288.0
+custom_fonts/font = SubResource( 2 )
+text = "*Press Enter or click Start button"
+valign = 1
+
+[node name="Hint2" type="Label" parent="."]
+margin_left = 399.0
+margin_top = 266.0
+margin_right = 3.0
+margin_bottom = 288.0
+custom_fonts/font = SubResource( 2 )
+text = "Made by SheetCode"
+align = 2
+valign = 1
+[connection signal="pressed" from="StartButton" to="." method="_on_StartButton_pressed"]
