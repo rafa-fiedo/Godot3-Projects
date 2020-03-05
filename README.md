@@ -16,13 +16,12 @@ YouTube - https://youtu.be/3rrPr90Oras
 - **Hammer King**  https://github.com/sheetcode/Hammer-King  
 My first platform game 2D using free graphics assets  
 [![IMAGE ALT](https://img.youtube.com/vi/sGHC5fTwpSU/0.jpg)](https://www.youtube.com/watch?v=sGHC5fTwpSU)
-
 You can play it on : https://sheetcode.itch.io/hammer-king  
 YouTube GameDev Vlog about it: https://youtu.be/sGHC5fTwpSU
 
 - **Godot midi json animation tutorial**  https://github.com/sheetcode/Godot_midi_json_animation_tutorial  
   It's my first tutorial :D I pressents how animate piano keyboard using MIDI and json parser  
-[![IMAGE ALT](https://img.youtube.com/vi/tMcAn1CK1/0.jpg)](https://www.youtube.com/watch?v=tMcAn1CK1)  
-  YouTube https://youtu.be/tMcAn1CK1-c  
+[![IMAGE ALT](https://img.youtube.com/vi/tMcAn1CK1-c/0.jpg)](https://www.youtube.com/watch?v=tMcAn1CK1-c)  
+  YouTube https://youtu.be/tMcAn1CK1-c
 
 
