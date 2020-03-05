@@ -15,7 +15,7 @@ YouTube - https://youtu.be/3rrPr90Oras
 
 - **Hammer King**  https://github.com/sheetcode/Hammer-King  
 My first platform game 2D using free graphics assets  
-[![IMAGE ALT](https://img.youtube.com/vi/sGHC5fTwpSU/0.jpg)](https://www.youtube.com/watch?v=sGHC5fTwpSU)
+[![IMAGE ALT](https://img.youtube.com/vi/sGHC5fTwpSU/0.jpg)](https://www.youtube.com/watch?v=sGHC5fTwpSU)  
 You can play it on : https://sheetcode.itch.io/hammer-king  
 YouTube GameDev Vlog about it: https://youtu.be/sGHC5fTwpSU
 
