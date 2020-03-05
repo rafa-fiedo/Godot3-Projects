@@ -4,7 +4,7 @@ https://www.youtube.com/channel/UCT09eC0fDd3a3Nx9X7QQ9Aw
 
 # Project details  
 How program gravity?
-- **Gravity and Movement Tutorial**  https://github.com/sheetcode/collision_tutorial  
+- **Gravity and Movement Tutorial**  https://github.com/sheetcode/tutorial_movement  
 [![IMAGE ALT](https://img.youtube.com/vi/jQKxOEbbirA/0.jpg)](https://www.youtube.com/watch?v=jQKxOEbbirA)  
 YouTube - https://youtu.be/jQKxOEbbirA
 
