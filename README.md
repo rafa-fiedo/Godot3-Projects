@@ -2,9 +2,16 @@
 Place to hold small godot projects I presented in my YouTube channel
 https://www.youtube.com/channel/UCT09eC0fDd3a3Nx9X7QQ9Aw
 
+
 # Project details  
-How program gravity?
+
+- **Spectrum Analyzer**  https://github.com/sheetcode/godot_spectrum_analyze  
+Cool new audio feature in Godot 3.2  
+[![IMAGE ALT](https://img.youtube.com/vi/rNiWlOPxMhc/0.jpg)](https://www.youtube.com/watch?v=rNiWlOPxMhc)  
+YouTube - https://youtu.be/rNiWlOPxMhc
+
 - **Gravity and Movement Tutorial**  https://github.com/sheetcode/tutorial_movement  
+How program gravity?  
 [![IMAGE ALT](https://img.youtube.com/vi/jQKxOEbbirA/0.jpg)](https://www.youtube.com/watch?v=jQKxOEbbirA)  
 YouTube - https://youtu.be/jQKxOEbbirA
 
