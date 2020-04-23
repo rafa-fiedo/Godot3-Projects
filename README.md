@@ -2,8 +2,12 @@
 Place to hold small godot projects I presented in my YouTube channel
 https://www.youtube.com/channel/UCT09eC0fDd3a3Nx9X7QQ9Aw
 
-
 # Project details  
+
+- **Sheep it alive**  https://github.com/rfiedorowicz/keep_it_alive_lunum_dare_46  
+Game in 48h for Ludum dare 46 for theme "Keep it alive"
+[![IMAGE ALT](https://img.youtube.com/vi/dtn-ZPoQvbY/0.jpg)](https://www.youtube.com/watch?v=dtn-ZPoQvbY)  
+YouTube - https://youtu.be/dtn-ZPoQvbY
 
 - **Spectrum Analyzer**  https://github.com/sheetcode/godot_spectrum_analyze  
 Cool new audio feature in Godot 3.2  
