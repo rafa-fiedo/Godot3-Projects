@@ -6,7 +6,8 @@ https://www.youtube.com/channel/UCT09eC0fDd3a3Nx9X7QQ9Aw
 - **Dungeon Rescuer**  https://github.com/rfiedorowicz/keep_it_alive_lunum_dare_46  
 Simple casual stealth 2d game where the light is taking the main role.
 [![IMAGE ALT](https://img.youtube.com/vi/XzIwSAHG1mw/0.jpg)](https://www.youtube.com/watch?v=XzIwSAHG1mw)  
-YouTube - https://youtu.be/dtn-ZPoQvbY
+YouTube - https://youtu.be/dtn-ZPoQvbY  
+Play on: https://sheetcode.itch.io/dungeon-rescuer
 
 - **Sheep it alive**  https://github.com/rfiedorowicz/keep_it_alive_lunum_dare_46  
 Game in 48h for Ludum dare 46 for theme "Keep it alive"
