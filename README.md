@@ -3,6 +3,11 @@ Place to hold small godot projects I presented in my YouTube channel
 https://www.youtube.com/channel/UCT09eC0fDd3a3Nx9X7QQ9Aw
 
 # Project details
+- **Light2d Tutorial in 3min**  https://github.com/rfiedorowicz/godot_light2d_tutorial  
+Fast tutorial for basic light 2d in the Godot.  
+[![IMAGE ALT](https://img.youtube.com/vi/mMFtS6GnLF4/0.jpg)](https://www.youtube.com/watch?v=mMFtS6GnLF4 )  
+YouTube - https://youtu.be/mMFtS6GnLF4   
+
 - **Dungeon Rescuer**  https://github.com/rfiedorowicz/DungeonRescuer  
 Simple casual stealth 2d game where the light is taking the main role.
 [![IMAGE ALT](https://img.youtube.com/vi/XzIwSAHG1mw/0.jpg)](https://www.youtube.com/watch?v=XzIwSAHG1mw)  
@@ -10,7 +15,7 @@ YouTube - https://youtu.be/XzIwSAHG1mw
 Play on: https://sheetcode.itch.io/dungeon-rescuer
 
 - **Sheep it alive**  https://github.com/rfiedorowicz/keep_it_alive_lunum_dare_46  
-Game in 48h for Ludum dare 46 for theme "Keep it alive"
+Game in 48h for Ludum dare 46 for theme "Keep it alive"  
 [![IMAGE ALT](https://img.youtube.com/vi/dtn-ZPoQvbY/0.jpg)](https://www.youtube.com/watch?v=dtn-ZPoQvbY)  
 YouTube - https://youtu.be/dtn-ZPoQvbY
 
