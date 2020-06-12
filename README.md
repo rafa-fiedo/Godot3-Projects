@@ -4,7 +4,7 @@ https://www.youtube.com/channel/UCT09eC0fDd3a3Nx9X7QQ9Aw
 
 # Project details  
 
-- **How to switch scene using door (portal)?**  https://github.com/rfiedorowicz/godot_portal_tutorial
+- **How to switch scene using door (portal)?**  https://github.com/rfiedorowicz/godot_portal_tutorial  
 Time for next Godot tutorial request :) How to change scenes using input in the Godot Engine 3.2  
 [![IMAGE ALT](https://img.youtube.com/vi/AxymjihpUi4/0.jpg)](https://www.youtube.com/watch?v=AxymjihpUi4 )  
 YouTube - https://youtu.be/AxymjihpUi4   
