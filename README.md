@@ -4,6 +4,11 @@ https://www.youtube.com/channel/UCT09eC0fDd3a3Nx9X7QQ9Aw
 
 # Project details  
 
+- **How to keep music between scenes??**  https://github.com/rfiedorowicz/godot_music_controller_tutorial  
+Use Autoloads  
+[![IMAGE ALT](https://img.youtube.com/vi/xT51BO8KrIg/0.jpg)](https://www.youtube.com/watch?v=xT51BO8KrIg )  
+YouTube - https://youtu.be/xT51BO8KrIg   
+
 - **How to switch scene using door (portal)?**  https://github.com/rfiedorowicz/godot_portal_tutorial  
 Time for next Godot tutorial request :) How to change scenes using input in the Godot Engine 3.2  
 [![IMAGE ALT](https://img.youtube.com/vi/AxymjihpUi4/0.jpg)](https://www.youtube.com/watch?v=AxymjihpUi4 )  
