@@ -2,6 +2,9 @@
 Place to hold small godot projects I presented in my YouTube channel  
 https://www.youtube.com/channel/UCT09eC0fDd3a3Nx9X7QQ9Aw
 
+You can also support me by buying a coffe:
+https://ko-fi.com/sheetcode
+
 # Project details  
 
 - **How to keep music between scenes??**  https://github.com/rfiedorowicz/godot_music_controller_tutorial  
