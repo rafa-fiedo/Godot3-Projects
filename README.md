@@ -11,7 +11,7 @@ https://ko-fi.com/sheetcode
 [![IMAGE ALT](https://img.youtube.com/vi/5bxys-Zo_jk/0.jpg)](https://www.youtube.com/watch?v=5bxys-Zo_jk )  
 YouTube - https://youtu.be/5bxys-Zo_jk
 
-- **How to back and forth between levels?**  https://github.com/rfiedorowicz/godot_portal_tutorial  
+- **How to back and forth between levels?**  https://github.com/rfiedorowicz/godot_pass_values_between_levels  
 Time for next Godot tutorial request :)  
 [![IMAGE ALT](https://img.youtube.com/vi/X8QNUCmmf5c/0.jpg)](https://www.youtube.com/watch?v=X8QNUCmmf5c )  
 YouTube - https://youtu.be/X8QNUCmmf5c
