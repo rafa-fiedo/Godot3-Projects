@@ -7,13 +7,39 @@ https://ko-fi.com/sheetcode
 
 # Project details  
 
+- **How to make a HUD and Camera in Godot? | MOBA Hero (P6)**  https://github.com/rfiedorowicz/basic_moba_character/tree/part6_hud  
+Next part, next topic, next year   
+[![IMAGE ALT](https://img.youtube.com/vi/7Ypc4_RvN5A/0.jpg)](https://www.youtube.com/watch?v=7Ypc4_RvN5A)  
+YouTube - https://youtu.be/7Ypc4_RvN5A 
+
+- **How to do health bar in Godot? | MOBA Hero series (P5)**  https://github.com/rfiedorowicz/basic_moba_character/tree/part5_hpbars  
+Next part, next topic, next year   
+[![IMAGE ALT](https://img.youtube.com/vi/hfSKX94nnjY/0.jpg)](https://www.youtube.com/watch?v=hfSKX94nnjY)  
+YouTube - https://youtu.be/hfSKX94nnjY 
+
+- **Attack the enemy in Godot 3 | MOBA Hero series (P4)**  https://github.com/rfiedorowicz/basic_moba_character/tree/part4_attack_the_enemy  
+Basic connections to hit and kill the enemy in Godot. There will be also adding basic attack animations, enemy hitpoints, damage functions.  
+[![IMAGE ALT](https://img.youtube.com/vi/TtPCHdr5WC0/0.jpg)](https://www.youtube.com/watch?v=TtPCHdr5WC0)  
+YouTube - https://youtu.be/TtPCHdr5WC0 
+
+- **Basic Collisions and YSort in Godot 3 | MOBA Hero series (P3)**  https://github.com/rfiedorowicz/basic_moba_character/tree/part3_collisions_and_ysort  
+Let's add collision between the player and the enemy. I also added YSort to have a nice character sorting on the scene.  
+[![IMAGE ALT](https://img.youtube.com/vi/UAkDVS7GSDM/0.jpg)](https://www.youtube.com/watch?v=UAkDVS7GSDM)  
+YouTube - https://youtu.be/UAkDVS7GSDM 
+
+- **Mouse Enemy detection in Godot 3 | MOBA Hero series (P2)**  https://github.com/rfiedorowicz/basic_moba_character/tree/part2_enemy_detection  
+How to use a mouse entered and exited with the enemy?  
+[![IMAGE ALT](https://img.youtube.com/vi/HbyY5cK40HU/0.jpg)](https://www.youtube.com/watch?v=HbyY5cK40HU)  
+YouTube - https://youtu.be/HbyY5cK40HU
+
 - **Point and click movement in Godot 3 | Create MOBA-like character tutorial (P1)**  https://github.com/rfiedorowicz/basic_moba_character/tree/part1_movement  
-[![IMAGE ALT](https://img.youtube.com/vi/5bxys-Zo_jk/0.jpg)](https://www.youtube.com/watch?v=5bxys-Zo_jk )  
++ basic animation + create a setup project + basic algebra  
+[![IMAGE ALT](https://img.youtube.com/vi/5bxys-Zo_jk/0.jpg)](https://www.youtube.com/watch?v=5bxys-Zo_jk)  
 YouTube - https://youtu.be/5bxys-Zo_jk
 
 - **How to back and forth between levels?**  https://github.com/rfiedorowicz/godot_pass_values_between_levels  
 Time for next Godot tutorial request :)  
-[![IMAGE ALT](https://img.youtube.com/vi/X8QNUCmmf5c/0.jpg)](https://www.youtube.com/watch?v=X8QNUCmmf5c )  
+[![IMAGE ALT](https://img.youtube.com/vi/X8QNUCmmf5c/0.jpg)](https://www.youtube.com/watch?v=X8QNUCmmf5c)  
 YouTube - https://youtu.be/X8QNUCmmf5c
 
 - **How to pause game?**  https://github.com/rfiedorowicz/godot_pause_tutorial  
