@@ -7,6 +7,18 @@ https://ko-fi.com/sheetcode
 
 # Project details  
 
+- **How to PARALLAX background in infinite in Godot 3? **  
+[![IMAGE ALT](https://img.youtube.com/vi/KrvQ02TEWZk/0.jpg)](https://www.youtube.com/watch?v=KrvQ02TEWZk)  
+YouTube - https://youtu.be/KrvQ02TEWZk 
+
+- **How to make MAIN MENU with keyboard focus in Godot 3?**  https://github.com/rfiedorowicz/main_menu_tutorial  
+[![IMAGE ALT](https://img.youtube.com/vi/M0NK6QqVpSU/0.jpg)](https://www.youtube.com/watch?v=M0NK6QqVpSU)  
+YouTube - https://youtu.be/M0NK6QqVpSU    
+
+- **How to teleport player with particles in Godot? | MOBA Hero (P7)**  https://github.com/rfiedorowicz/basic_moba_character/tree/part7_blink_dagger  
+[![IMAGE ALT](https://img.youtube.com/vi/A0KKbv7GOVE/0.jpg)](https://www.youtube.com/watch?v=A0KKbv7GOVE)  
+YouTube - https://youtu.be/A0KKbv7GOVE   
+
 - **How to make a HUD and Camera in Godot? | MOBA Hero (P6)**  https://github.com/rfiedorowicz/basic_moba_character/tree/part6_hud  
 Next part, next topic, next year   
 [![IMAGE ALT](https://img.youtube.com/vi/7Ypc4_RvN5A/0.jpg)](https://www.youtube.com/watch?v=7Ypc4_RvN5A)  
