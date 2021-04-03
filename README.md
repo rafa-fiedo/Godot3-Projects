@@ -7,6 +7,14 @@ https://ko-fi.com/sheetcode
 
 # Project details  
 
+- **How to make CHECKPOINT in Godot 3?**  
+[![IMAGE ALT](https://img.youtube.com/vi/cC6TynnRY7U/0.jpg)](https://www.youtube.com/watch?v=cC6TynnRY7U)  
+YouTube - https://youtu.be/cC6TynnRY7U
+
+- **How to do Enemy AI 2D - melee attack, turn around in Godot 3?**  
+[![IMAGE ALT](https://img.youtube.com/vi/4WywpSBncFI/0.jpg)](https://www.youtube.com/watch?v=4WywpSBncFI)  
+YouTube - https://youtu.be/4WywpSBncFI
+
 - **How to PARALLAX background in infinite in Godot 3?**  
 [![IMAGE ALT](https://img.youtube.com/vi/KrvQ02TEWZk/0.jpg)](https://www.youtube.com/watch?v=KrvQ02TEWZk)  
 YouTube - https://youtu.be/KrvQ02TEWZk 
