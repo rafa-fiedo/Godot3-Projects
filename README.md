@@ -7,7 +7,7 @@ https://ko-fi.com/sheetcode
 
 # Project details  
 
-- **How to PARALLAX background in infinite in Godot 3?**
+- **How to PARALLAX background in infinite in Godot 3?**  
 [![IMAGE ALT](https://img.youtube.com/vi/KrvQ02TEWZk/0.jpg)](https://www.youtube.com/watch?v=KrvQ02TEWZk)  
 YouTube - https://youtu.be/KrvQ02TEWZk 
 
