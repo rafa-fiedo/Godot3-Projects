@@ -1,0 +1,7 @@
+[
+  {"name": "NPC", "text": "Hello stranger!"},
+  {"name": "Player", "text": "Hello bigger stranger!"},
+  {"name": "NPC", "text": "It's dangerous to go alone."},
+  {"name": "Player", "text": "Yea, I know, but I have my hammer with me."},
+  {"name": "NPC", "text": "Ah, ok. Have a nice trip!"}
+]
