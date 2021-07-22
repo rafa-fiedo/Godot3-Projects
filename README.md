@@ -7,6 +7,26 @@ https://ko-fi.com/rafafiedo
 
 # Project details  
 
+- **How to add Mobile JOYSTICK in Godot 3?**  
+[![IMAGE ALT](https://img.youtube.com/vi/_VXtUTwTxP0/0.jpg)](https://www.youtube.com/watch?v=_VXtUTwTxP0)  
+YouTube - https://youtu.be/_VXtUTwTxP0
+
+- **How to add MOBILE CONTROLS in Godot 3?**  
+[![IMAGE ALT](https://img.youtube.com/vi/18gE_Ng84SY/0.jpg)](https://www.youtube.com/watch?v=18gE_Ng84SY)  
+YouTube - https://youtu.be/18gE_Ng84SY
+
+- **What I added to the game prototype? **  
+[![IMAGE ALT](https://img.youtube.com/vi/SHKIo5wAaGE/0.jpg)](https://www.youtube.com/watch?v=SHKIo5wAaGE)  
+YouTube - https://youtu.be/SHKIo5wAaGE 
+
+- **How to add DIALOGUE System in Godot 3? **  
+[![IMAGE ALT](https://img.youtube.com/vi/EGteUAiR7P8/0.jpg)](https://www.youtube.com/watch?v=EGteUAiR7P8)  
+YouTube - https://youtu.be/EGteUAiR7P8
+
+- **How to use SHADER 2D in Godot 3? Dissolve tutorial**  
+[![IMAGE ALT](https://img.youtube.com/vi/vz5VkRyDH54/0.jpg)](https://www.youtube.com/watch?v=vz5VkRyDH54)  
+YouTube - https://youtu.be/vz5VkRyDH54 
+
 - **How to make CHECKPOINT in Godot 3?**  
 [![IMAGE ALT](https://img.youtube.com/vi/cC6TynnRY7U/0.jpg)](https://www.youtube.com/watch?v=cC6TynnRY7U)  
 YouTube - https://youtu.be/cC6TynnRY7U
