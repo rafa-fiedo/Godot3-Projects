@@ -7,6 +7,10 @@ https://ko-fi.com/rafafiedo
 
 # Project details  
 
+- **How to Tilemap - AUTOTILE in Godot 3? Tutorial**  
+[![IMAGE ALT](https://img.youtube.com/vi/idMYaUuO2OY/0.jpg)](https://www.youtube.com/watch?v=idMYaUuO2OY)  
+YouTube - https://youtu.be/idMYaUuO2OY
+
 - **How to add Mobile JOYSTICK in Godot 3?**  
 [![IMAGE ALT](https://img.youtube.com/vi/_VXtUTwTxP0/0.jpg)](https://www.youtube.com/watch?v=_VXtUTwTxP0)  
 YouTube - https://youtu.be/_VXtUTwTxP0
